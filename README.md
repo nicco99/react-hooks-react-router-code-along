@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-- Add `react-router-dom` to an existing React application
+- Add `re~act-router-dom` to an existing React application
 - Create multiple client-side routes
 
 ## Introduction
